@@ -1,0 +1,34 @@
+{
+  "name": "wintersmith-archive",
+  "description": "A content plugin to seperate logic from templates in Wintersmith",
+  "version": "0.1.0",
+  "homepage": "https://github.com/vitch/wintersmith-archive",
+  "author": {
+    "name": "Kelvin Luck",
+    "email": "git@kelvinluck.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/vitch/wintersmith-archive.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vitch/wintersmith-archive/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/vitch/wintersmith-archive/blob/master/LICENSE-MIT"
+    }
+  ],
+  "main": "lib/wintersmith-archive",
+  "engines": {
+    "node": ">= 0.6.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "devDependencies": {
+    "grunt": "~0.3.12"
+  },
+  "keywords": []
+}
