@@ -1,14 +1,11 @@
 # wintersmith-archive
 
-A content plugin to seperate logic from templates in Wintersmith
+A content plugin to seperate logic from templates for the archive pages in Wintersmith.
+
+The idea is that this will make it easier to create logicless templates.
 
 ## Getting Started
-Install the module with: `npm install wintersmith-archive`
-
-```javascript
-var wintersmith_archive = require('wintersmith-archive');
-wintersmith_archive.awesome(); // "awesome"
-```
+_(Coming soon)_
 
 ## Documentation
 _(Coming soon)_
