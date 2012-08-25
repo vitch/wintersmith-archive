@@ -20,7 +20,7 @@
       "url": "https://github.com/vitch/wintersmith-archive/blob/master/LICENSE-MIT"
     }
   ],
-  "main": "lib/wintersmith-archive",
+  "main": "plugin.coffee",
   "engines": {
     "node": ">= 0.6.0"
   },
